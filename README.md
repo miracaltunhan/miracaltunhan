@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p href="https://www.linkedin.com/in/mira%C3%A7-altunhan-698a52251/" target="_blank">
+<a href="https://www.linkedin.com/in/mira%C3%A7-altunhan-698a52251/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miraç altunhan" height="30" width="40" />
-</p>
+</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
