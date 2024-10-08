@@ -1,4 +1,5 @@
-![MasterHead](https://www.coderus.com/wp-content/uploads/2020/11/different-types-of-software-coderus-branded-image.jpg)
+![MasterHead](https://www.perforce.com/sites/default/files/image/2020-01/image-blog-future-software-development.png)
+
 
 <h1 align="center">Hi 👋, I'm Miraç ALTUNHAN</h1>
 <h3 align="center">I'm a third-year software engineering student with a passion for coding. I look forward to sharing many of my projects here in the near future!</h3>
